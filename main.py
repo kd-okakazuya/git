@@ -1,3 +1,3 @@
-print("hoge")
+print("giga")
 print("shiga")
 print("miga")
