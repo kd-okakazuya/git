@@ -1,3 +1,3 @@
-print("giga")
+prnt("giga")
 print("shiga")
 print("miga")
